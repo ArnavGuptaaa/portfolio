@@ -9,7 +9,7 @@ My fully Responsive portfolio website created using Tailwind CSS following mobil
 
 ## 📌 Images
 
-<img src="../portfolio/readme/Demo.gif" alt="Website Demo">
+<img src="./readme/Demo.gif" alt="Website Demo">
 
 ## 📌 Use This Project
 
