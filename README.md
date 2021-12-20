@@ -1,10 +1,10 @@
-# My Portfolio Website
+<h1 align=center>My Portfolio Website</h1>
 
 My fully Responsive portfolio website created using Tailwind CSS following mobile first development
 
 ## 📌 Website URL
-<a href="#" alt="Portfolio Website URL">
-    URL
+<a href="https://arnavguptadev.web.app/" alt="Portfolio Website URL">
+    https://arnavguptadev.web.app/
 </a>
 
 ## 📌 Images
