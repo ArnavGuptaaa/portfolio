@@ -94,7 +94,7 @@ const Home = () => {
 							<span className="text-highlight">third year of CSE</span>&nbsp;in
 							Symbiosis Institute Of Technology. I love solving problems and
 							creating solutions to them using my skills. I have a keen interest
-							&nbsp;
+							in &nbsp;
 							<span className="text-highlight">web development</span>.
 							Currently, I am learning more about&nbsp;
 							<span className="text-highlight">cloud technologies &nbsp;</span>
