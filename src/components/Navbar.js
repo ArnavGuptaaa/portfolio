@@ -38,22 +38,22 @@ const Navbar = () => {
 					id="nav-menu"
 					className="hidden text-right uppercase mt-3 sm:mt-0 sm:flex sm:w-3/6 xl:w-2/5 justify-around items-center  "
 				>
-					<li className="mt-2 sm:mt-0 sm:ml-5 md:ml-0 hover-effect">
+					<li className="mt-2 sm:mt-0 sm:ml-5 md:ml-0 transform hover:-translate-y-1 hover:text-highlight transition duration-200 ease-in-out">
 						<a href="/#home" className=" " onClick={handleClick}>
 							Home
 						</a>
 					</li>
-					<li className="mt-2 sm:mt-0 sm:ml-5 md:ml-0 hover-effect">
+					<li className="mt-2 sm:mt-0 sm:ml-5 md:ml-0 transform hover:-translate-y-1 hover:text-highlight transition duration-200 ease-in-out">
 						<a href="/#about" onClick={handleClick}>
 							About Me
 						</a>
 					</li>
-					<li className="mt-2 sm:mt-0 sm:ml-5 md:ml-0 hover-effect">
+					<li className="mt-2 sm:mt-0 sm:ml-5 md:ml-0 transform hover:-translate-y-1 hover:text-highlight transition duration-200 ease-in-out">
 						<a href="/#projects" onClick={handleClick}>
 							Projects
 						</a>
 					</li>
-					<li className="mt-2 sm:mt-0 sm:ml-5 md:ml-0 hover-effect">
+					<li className="mt-2 sm:mt-0 sm:ml-5 md:ml-0 transform hover:-translate-y-1 hover:text-highlight transition duration-200 ease-in-out">
 						<a href="/reachme" onClick={handleClick}>
 							Reach Me
 						</a>

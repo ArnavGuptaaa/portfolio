@@ -25,7 +25,7 @@ const ReachMe = () => {
 							href={data.socials.gmail}
 							target="_blank"
 							rel="noreferrer"
-							className="w-full lg:w-4/5 my-2 border rounded-md border-font-secondary p-4 hover-effect"
+							className="w-full lg:w-4/5 my-2 border rounded-md border-font-secondary p-4 transform hover:-translate-y-1 hover:text-highlight transition duration-200 ease-in-out"
 						>
 							<div className="w-full text-font flex items-center">
 								<SiGmail size="2em" color="#EA4335" />
@@ -42,7 +42,7 @@ const ReachMe = () => {
 							href={data.socials.linkedIn}
 							target="_blank"
 							rel="noreferrer"
-							className="w-full lg:w-4/5 my-2 border rounded-md border-font-secondary p-4 hover-effect"
+							className="w-full lg:w-4/5 my-2 border rounded-md border-font-secondary p-4 transform hover:-translate-y-1 hover:text-highlight transition duration-200 ease-in-out"
 						>
 							<div className="w-full text-font flex items-center">
 								<BsLinkedin size="2em" color="#0071AE" />
@@ -58,7 +58,7 @@ const ReachMe = () => {
 							href={data.socials.github}
 							target="_blank"
 							rel="noreferrer"
-							className="w-full lg:w-4/5 my-2 border rounded-md border-font-secondary p-4 hover-effect"
+							className="w-full lg:w-4/5 my-2 border rounded-md border-font-secondary p-4 transform hover:-translate-y-1 hover:text-highlight transition duration-200 ease-in-out"
 						>
 							<div className="w-full text-font flex items-center">
 								<AiFillGithub size="2em" color="#e0e1dd" />
@@ -73,7 +73,7 @@ const ReachMe = () => {
 							href={data.socials.twitter}
 							target="_blank"
 							rel="noreferrer"
-							className="w-full lg:w-4/5 my-2 border rounded-md border-font-secondary p-4 hover-effect"
+							className="w-full lg:w-4/5 my-2 border rounded-md border-font-secondary p-4 transform hover:-translate-y-1 hover:text-highlight transition duration-200 ease-in-out"
 						>
 							<div className="w-full text-font flex items-center">
 								<BsTwitter size="2em" color="#009DED" />

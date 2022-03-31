@@ -17,7 +17,7 @@ const Card = ({ imgUrl, title, tags, description, isLive, projectUrl }) => {
 						</span>
 					))}
 				</div>
-				<div className="p-2 absolute right-2 bottom-2 cursor-pointer hover-effect">
+				<div className="p-2 absolute right-2 bottom-2 cursor-pointer transform hover:-translate-y-1 hover:text-highlight transition duration-200 ease-in-out">
 					<div className="border border-highlight rounded-full p-2 ">
 						<a
 							className="text-md text-highlight font-bold"

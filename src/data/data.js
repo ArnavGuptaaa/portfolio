@@ -61,6 +61,17 @@ const data = {
 			isLive: true,
 			projectUrl: '#',
 		},
+		{
+			id: 6,
+			imgUrl:
+				'https://raw.githubusercontent.com/ArnavGuptaaa/fullstack-notesapp/main/readme/dashboard.png',
+			title: 'Fullstack Notesapp',
+			tags: ['React', 'Express'],
+			description:
+				'A simple full-stack notes app that uses React and Tailwind CSS for the frontend, Express.js and MongoDB on the backend.',
+			isLive: false,
+			projectUrl: 'https://github.com/ArnavGuptaaa/fullstack-notesapp',
+		},
 	],
 };
 

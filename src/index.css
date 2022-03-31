@@ -38,7 +38,3 @@ body::-webkit-scrollbar-thumb {
 .nav-active {
 	@apply text-gray-600;
 }
-
-.hover-effect {
-	@apply transform hover:-translate-y-1 hover:text-highlight transition duration-200 ease-in-out;
-}

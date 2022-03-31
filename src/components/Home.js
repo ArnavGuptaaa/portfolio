@@ -44,7 +44,7 @@ const Home = () => {
 					</h1>
 
 					<div className="mt-2 text-font-secondary sm:mt-2 md:text-lg">
-						FrontEnd Developer | Cloud Enthusiast | Student
+						Fullstack Developer | Cloud Enthusiast | Student
 					</div>
 					<div className=" flex justify-around items-center w-3/5 sm:justify-between md:w-2/6 mt-8 xl:w-1/5">
 						<a
@@ -90,14 +90,16 @@ const Home = () => {
 					</div>
 					<div className="flex flex-col  justify-around items-center sm:items-end sm:w-3/5">
 						<p className=" mt-4 text-center md:text-lg text-font-secondary sm:mt-0 sm:ml-5 sm:text-right ">
-							I am a student pursuing&nbsp;
-							<span className="text-highlight">third year of CSE</span>&nbsp;in
-							Symbiosis Institute Of Technology. I love solving problems and
-							creating solutions to them using my skills. I have a keen interest
-							in &nbsp;
+							I am a student pursuing&nbsp; third year of&nbsp;
+							<span className="text-highlight">
+								CSE specializing in cloud and blockchain
+							</span>
+							&nbsp;in Symbiosis Institute Of Technology. I love solving
+							problems and creating solutions to them using my skills. I have a
+							keen interest in &nbsp;
 							<span className="text-highlight">web development</span>.
 							Currently, I am learning more about&nbsp;
-							<span className="text-highlight">cloud technologies &nbsp;</span>
+							<span className="text-highlight">cloud technologies&nbsp;</span>
 							and its services and other backend technologies.
 						</p>
 						<div className="flex justify-between items-center w-full mt-4 sm:w-4/5 md:w-3/5 xl:w-2/5">
@@ -109,7 +111,7 @@ const Home = () => {
 							<FaNodeJs size="2em" color="#85BE47" />
 						</div>
 						<button
-							className="hover-effect border-highlight text-highlight border-2 rounded-md p-2 mt-10"
+							className="transform hover:-translate-y-1 hover:text-highlight transition duration-200 ease-in-out border-highlight text-highlight border-2 rounded-md p-2 mt-10"
 							onClick={handleDownload}
 						>
 							Download Resume
