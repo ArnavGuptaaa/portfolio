@@ -72,6 +72,16 @@ const data = {
 			isLive: false,
 			projectUrl: 'https://github.com/ArnavGuptaaa/fullstack-notesapp',
 		},
+		{
+			id: 7,
+			imgUrl:
+				'https://drive.google.com/uc?export=download&id=1yy_Bd0OEZivOk97vUN7RPtF3MeHowFgx',
+			title: 'Wordle',
+			tags: ['React'],
+			description: 'The popular game - wordle, built with react.',
+			isLive: true,
+			projectUrl: 'https://reactwordle.web.app/',
+		},
 	],
 };
 
