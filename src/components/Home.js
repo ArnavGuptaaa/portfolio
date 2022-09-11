@@ -1,5 +1,5 @@
 // Icons
-import { DiCss3 } from 'react-icons/di';
+import { DiCss3, DiJava } from 'react-icons/di';
 import { BsLinkedin } from 'react-icons/bs';
 import { SiGmail, SiJavascript } from 'react-icons/si';
 import { AiFillGithub, AiFillHtml5 } from 'react-icons/ai';
@@ -90,7 +90,7 @@ const Home = () => {
 					</div>
 					<div className="flex flex-col  justify-around items-center sm:items-end sm:w-3/5">
 						<p className=" mt-4 text-center md:text-lg text-font-secondary sm:mt-0 sm:ml-5 sm:text-right ">
-							I am a student pursuing&nbsp; third year of&nbsp;
+							I am a student pursuing&nbsp; final year of&nbsp;
 							<span className="text-highlight">
 								CSE specializing in cloud and blockchain
 							</span>
@@ -109,6 +109,7 @@ const Home = () => {
 							<FaPython size="2em" color="#3770A1" />
 							<FaReact size="2em" color="#4FB7D3" />
 							<FaNodeJs size="2em" color="#85BE47" />
+							<DiJava size="2em" color="#EC2024" />
 						</div>
 						<button
 							className="transform hover:-translate-y-1 hover:text-highlight transition duration-200 ease-in-out border-highlight text-highlight border-2 rounded-md p-2 mt-10"
