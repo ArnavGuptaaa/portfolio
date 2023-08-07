@@ -2,11 +2,6 @@
 
 My fully Responsive portfolio website created using Tailwind CSS following mobile first development
 
-## 📌 Website URL
-<a href="https://arnavguptadev.web.app/" alt="Portfolio Website URL">
-    https://arnavguptadev.web.app/
-</a>
-
 ## 📌 Images
 
 <img src="./readme/Demo.gif" alt="Website Demo">
